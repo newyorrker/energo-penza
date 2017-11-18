@@ -589,7 +589,7 @@ footer {
   width: 100%;
   background-image: url(../images/footer-bg.jpg);
   background-size: cover;
-  background-position: 0 -25px; }
+  background-position: 0 0; }
 
 footer h1 {
   font-size: 80px;
